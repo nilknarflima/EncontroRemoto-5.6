@@ -1,0 +1,5 @@
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\EncontroRemoto5e6\obj\Debug\net6.0\EncontroRemoto5e6.csproj.AssemblyReference.cache
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\EncontroRemoto5e6\obj\Debug\net6.0\EncontroRemoto5e6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\EncontroRemoto5e6\obj\Debug\net6.0\EncontroRemoto5e6.AssemblyInfoInputs.cache
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\EncontroRemoto5e6\obj\Debug\net6.0\EncontroRemoto5e6.AssemblyInfo.cs
+C:\Users\Nilkn\Dropbox\My PC (FranklinSoul)\Desktop\EncontroRemoto5e6\obj\Debug\net6.0\EncontroRemoto5e6.csproj.CoreCompileInputs.cache
